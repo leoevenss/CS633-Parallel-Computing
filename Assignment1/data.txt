@@ -1,0 +1,1260 @@
+For P=16
+For N=16
+MPI_Send/Recv:0.659153
+For P=16
+For N=16
+MPI_Pack/Unpack:0.571822
+For P=16
+For N=16
+Derived datatype:0.556154
+For P=16
+For N=32
+MPI_Send/Recv:0.356349
+For P=16
+For N=32
+MPI_Pack/Unpack:0.231355
+For P=16
+For N=32
+Derived datatype:0.352748
+For P=16
+For N=64
+MPI_Send/Recv:1.117540
+For P=16
+For N=64
+MPI_Pack/Unpack:0.487916
+For P=16
+For N=64
+Derived datatype:0.447901
+For P=16
+For N=128
+MPI_Send/Recv:2.142097
+For P=16
+For N=128
+MPI_Pack/Unpack:0.618699
+For P=16
+For N=128
+Derived datatype:0.267291
+For P=16
+For N=256
+MPI_Send/Recv:2.228448
+For P=16
+For N=256
+MPI_Pack/Unpack:0.369650
+For P=16
+For N=256
+Derived datatype:0.374769
+For P=16
+For N=512
+MPI_Send/Recv:3.024265
+For P=16
+For N=512
+MPI_Pack/Unpack:0.837972
+For P=16
+For N=512
+Derived datatype:0.446170
+For P=16
+For N=1024
+MPI_Send/Recv:6.620029
+For P=16
+For N=1024
+MPI_Pack/Unpack:0.283736
+For P=16
+For N=1024
+Derived datatype:0.029387
+For P=36
+For N=16
+MPI_Send/Recv:0.025430
+For P=36
+For N=16
+MPI_Pack/Unpack:0.008441
+For P=36
+For N=16
+Derived datatype:0.020217
+For P=36
+For N=32
+MPI_Send/Recv:0.029653
+For P=36
+For N=32
+MPI_Pack/Unpack:0.215610
+For P=36
+For N=32
+Derived datatype:0.005127
+For P=36
+For N=64
+MPI_Send/Recv:0.043494
+For P=36
+For N=64
+MPI_Pack/Unpack:0.044426
+For P=36
+For N=64
+Derived datatype:0.018473
+For P=36
+For N=128
+MPI_Send/Recv:0.067176
+For P=36
+For N=128
+MPI_Pack/Unpack:0.020300
+For P=36
+For N=128
+Derived datatype:0.007932
+For P=36
+For N=256
+MPI_Send/Recv:0.278484
+For P=36
+For N=256
+MPI_Pack/Unpack:0.042824
+For P=36
+For N=256
+Derived datatype:0.015231
+For P=36
+For N=512
+MPI_Send/Recv:1.332096
+For P=36
+For N=512
+MPI_Pack/Unpack:0.125230
+For P=36
+For N=512
+Derived datatype:0.032271
+For P=36
+For N=1024
+MPI_Send/Recv:6.844398
+For P=36
+For N=1024
+MPI_Pack/Unpack:0.805453
+For P=36
+For N=1024
+Derived datatype:0.072908
+For P=49
+For N=16
+MPI_Send/Recv:0.379830
+For P=49
+For N=16
+MPI_Pack/Unpack:0.109454
+For P=49
+For N=16
+Derived datatype:0.075809
+For P=49
+For N=32
+MPI_Send/Recv:0.460497
+For P=49
+For N=32
+MPI_Pack/Unpack:0.411494
+For P=49
+For N=32
+Derived datatype:0.368770
+For P=49
+For N=64
+MPI_Send/Recv:0.454728
+For P=49
+For N=64
+MPI_Pack/Unpack:0.247110
+For P=49
+For N=64
+Derived datatype:0.123006
+For P=49
+For N=128
+MPI_Send/Recv:0.824161
+For P=49
+For N=128
+MPI_Pack/Unpack:0.390594
+For P=49
+For N=128
+Derived datatype:0.278880
+For P=49
+For N=256
+MPI_Send/Recv:0.842134
+For P=49
+For N=256
+MPI_Pack/Unpack:0.310641
+For P=49
+For N=256
+Derived datatype:0.140174
+For P=49
+For N=512
+MPI_Send/Recv:1.733923
+For P=49
+For N=512
+MPI_Pack/Unpack:0.311067
+For P=49
+For N=512
+Derived datatype:0.307593
+For P=49
+For N=1024
+MPI_Send/Recv:7.567458
+For P=49
+For N=1024
+MPI_Pack/Unpack:0.835726
+For P=49
+For N=1024
+Derived datatype:0.322169
+For P=64
+For N=16
+MPI_Send/Recv:0.436350
+For P=64
+For N=16
+MPI_Pack/Unpack:0.351241
+For P=64
+For N=16
+Derived datatype:0.415541
+For P=64
+For N=32
+MPI_Send/Recv:0.460662
+For P=64
+For N=32
+MPI_Pack/Unpack:0.455778
+For P=64
+For N=32
+Derived datatype:0.482070
+For P=64
+For N=64
+MPI_Send/Recv:0.543567
+For P=64
+For N=64
+MPI_Pack/Unpack:0.270126
+For P=64
+For N=64
+Derived datatype:0.355892
+For P=64
+For N=128
+MPI_Send/Recv:0.958854
+For P=64
+For N=128
+MPI_Pack/Unpack:0.406544
+For P=64
+For N=128
+Derived datatype:0.333468
+For P=64
+For N=256
+MPI_Send/Recv:1.062246
+For P=64
+For N=256
+MPI_Pack/Unpack:0.288777
+For P=64
+For N=256
+Derived datatype:0.546391
+For P=64
+For N=512
+MPI_Send/Recv:3.201904
+For P=64
+For N=512
+MPI_Pack/Unpack:0.793103
+For P=64
+For N=512
+Derived datatype:0.203984
+For P=64
+For N=1024
+MPI_Send/Recv:9.522093
+For P=64
+For N=1024
+MPI_Pack/Unpack:1.680549
+For P=64
+For N=1024
+Derived datatype:0.418807
+For P=16
+For N=16
+MPI_Send/Recv:0.015061
+For P=16
+For N=16
+MPI_Pack/Unpack:0.006371
+For P=16
+For N=16
+Derived datatype:0.005020
+For P=16
+For N=32
+MPI_Send/Recv:0.020729
+For P=16
+For N=32
+MPI_Pack/Unpack:0.007313
+For P=16
+For N=32
+Derived datatype:0.005196
+For P=16
+For N=64
+MPI_Send/Recv:0.036265
+For P=16
+For N=64
+MPI_Pack/Unpack:0.008873
+For P=16
+For N=64
+Derived datatype:0.021976
+For P=16
+For N=128
+MPI_Send/Recv:0.066477
+For P=16
+For N=128
+MPI_Pack/Unpack:0.031487
+For P=16
+For N=128
+Derived datatype:0.006999
+For P=16
+For N=256
+MPI_Send/Recv:0.219527
+For P=16
+For N=256
+MPI_Pack/Unpack:0.022516
+For P=16
+For N=256
+Derived datatype:0.011955
+For P=16
+For N=512
+MPI_Send/Recv:1.194370
+For P=16
+For N=512
+MPI_Pack/Unpack:0.094382
+For P=16
+For N=512
+Derived datatype:0.021564
+For P=16
+For N=1024
+MPI_Send/Recv:6.469920
+For P=16
+For N=1024
+MPI_Pack/Unpack:0.435107
+For P=16
+For N=1024
+Derived datatype:0.034930
+For P=36
+For N=16
+MPI_Send/Recv:0.019831
+For P=36
+For N=16
+MPI_Pack/Unpack:0.006668
+For P=36
+For N=16
+Derived datatype:0.004858
+For P=36
+For N=32
+MPI_Send/Recv:0.031041
+For P=36
+For N=32
+MPI_Pack/Unpack:0.007715
+For P=36
+For N=32
+Derived datatype:0.005073
+For P=36
+For N=64
+MPI_Send/Recv:0.043924
+For P=36
+For N=64
+MPI_Pack/Unpack:0.013758
+For P=36
+For N=64
+Derived datatype:0.013111
+For P=36
+For N=128
+MPI_Send/Recv:0.069117
+For P=36
+For N=128
+MPI_Pack/Unpack:0.036558
+For P=36
+For N=128
+Derived datatype:0.013460
+For P=36
+For N=256
+MPI_Send/Recv:0.319180
+For P=36
+For N=256
+MPI_Pack/Unpack:0.074929
+For P=36
+For N=256
+Derived datatype:0.031137
+For P=36
+For N=512
+MPI_Send/Recv:1.472598
+For P=36
+For N=512
+MPI_Pack/Unpack:0.124965
+For P=36
+For N=512
+Derived datatype:0.030324
+For P=36
+For N=1024
+MPI_Send/Recv:6.605839
+For P=36
+For N=1024
+MPI_Pack/Unpack:0.667388
+For P=36
+For N=1024
+Derived datatype:0.063035
+For P=49
+For N=16
+MPI_Send/Recv:0.423493
+For P=49
+For N=16
+MPI_Pack/Unpack:0.326938
+For P=49
+For N=16
+Derived datatype:0.154036
+For P=49
+For N=32
+MPI_Send/Recv:0.336023
+For P=49
+For N=32
+MPI_Pack/Unpack:0.084134
+For P=49
+For N=32
+Derived datatype:0.170350
+For P=49
+For N=64
+MPI_Send/Recv:0.692053
+For P=49
+For N=64
+MPI_Pack/Unpack:0.407677
+For P=49
+For N=64
+Derived datatype:0.206216
+For P=49
+For N=128
+MPI_Send/Recv:0.690965
+For P=49
+For N=128
+MPI_Pack/Unpack:0.295201
+For P=49
+For N=128
+Derived datatype:0.165405
+For P=49
+For N=256
+MPI_Send/Recv:1.108013
+For P=49
+For N=256
+MPI_Pack/Unpack:0.314028
+For P=49
+For N=256
+Derived datatype:0.279265
+For P=49
+For N=512
+MPI_Send/Recv:2.487031
+For P=49
+For N=512
+MPI_Pack/Unpack:0.614831
+For P=49
+For N=512
+Derived datatype:0.278957
+For P=49
+For N=1024
+MPI_Send/Recv:7.766732
+For P=49
+For N=1024
+MPI_Pack/Unpack:1.293240
+For P=49
+For N=1024
+Derived datatype:0.357705
+For P=64
+For N=16
+MPI_Send/Recv:0.546829
+For P=64
+For N=16
+MPI_Pack/Unpack:0.318774
+For P=64
+For N=16
+Derived datatype:0.359121
+For P=64
+For N=32
+MPI_Send/Recv:0.295828
+For P=64
+For N=32
+MPI_Pack/Unpack:0.030297
+For P=64
+For N=32
+Derived datatype:0.258039
+For P=64
+For N=64
+MPI_Send/Recv:0.653301
+For P=64
+For N=64
+MPI_Pack/Unpack:0.403970
+For P=64
+For N=64
+Derived datatype:0.431960
+For P=64
+For N=128
+MPI_Send/Recv:0.653981
+For P=64
+For N=128
+MPI_Pack/Unpack:0.464776
+For P=64
+For N=128
+Derived datatype:0.258785
+For P=64
+For N=256
+MPI_Send/Recv:1.253465
+For P=64
+For N=256
+MPI_Pack/Unpack:0.376717
+For P=64
+For N=256
+Derived datatype:0.127627
+For P=64
+For N=512
+MPI_Send/Recv:3.035747
+For P=64
+For N=512
+MPI_Pack/Unpack:0.996641
+For P=64
+For N=512
+Derived datatype:0.207007
+For P=64
+For N=1024
+MPI_Send/Recv:8.661372
+For P=64
+For N=1024
+MPI_Pack/Unpack:1.077933
+For P=64
+For N=1024
+Derived datatype:0.309052
+For P=16
+For N=16
+MPI_Send/Recv:0.010078
+For P=16
+For N=16
+MPI_Pack/Unpack:0.006170
+For P=16
+For N=16
+Derived datatype:0.005806
+For P=16
+For N=32
+MPI_Send/Recv:0.015743
+For P=16
+For N=32
+MPI_Pack/Unpack:0.006547
+For P=16
+For N=32
+Derived datatype:0.005606
+For P=16
+For N=64
+MPI_Send/Recv:0.016994
+For P=16
+For N=64
+MPI_Pack/Unpack:0.007166
+For P=16
+For N=64
+Derived datatype:0.005987
+For P=16
+For N=128
+MPI_Send/Recv:0.039369
+For P=16
+For N=128
+MPI_Pack/Unpack:0.030259
+For P=16
+For N=128
+Derived datatype:0.228766
+For P=16
+For N=256
+MPI_Send/Recv:0.200609
+For P=16
+For N=256
+MPI_Pack/Unpack:0.021952
+For P=16
+For N=256
+Derived datatype:0.008759
+For P=16
+For N=512
+MPI_Send/Recv:1.511029
+For P=16
+For N=512
+MPI_Pack/Unpack:0.076247
+For P=16
+For N=512
+Derived datatype:0.019741
+For P=16
+For N=1024
+MPI_Send/Recv:6.766264
+For P=16
+For N=1024
+MPI_Pack/Unpack:0.310072
+For P=16
+For N=1024
+Derived datatype:0.031891
+For P=36
+For N=16
+MPI_Send/Recv:0.040803
+For P=36
+For N=16
+MPI_Pack/Unpack:0.007757
+For P=36
+For N=16
+Derived datatype:0.006132
+For P=36
+For N=32
+MPI_Send/Recv:0.032038
+For P=36
+For N=32
+MPI_Pack/Unpack:0.007819
+For P=36
+For N=32
+Derived datatype:0.005040
+For P=36
+For N=64
+MPI_Send/Recv:0.037571
+For P=36
+For N=64
+MPI_Pack/Unpack:0.023471
+For P=36
+For N=64
+Derived datatype:0.018623
+For P=36
+For N=128
+MPI_Send/Recv:0.074637
+For P=36
+For N=128
+MPI_Pack/Unpack:0.048943
+For P=36
+For N=128
+Derived datatype:0.041948
+For P=36
+For N=256
+MPI_Send/Recv:0.312028
+For P=36
+For N=256
+MPI_Pack/Unpack:0.060995
+For P=36
+For N=256
+Derived datatype:0.015214
+For P=36
+For N=512
+MPI_Send/Recv:1.330986
+For P=36
+For N=512
+MPI_Pack/Unpack:0.142665
+For P=36
+For N=512
+Derived datatype:0.029021
+For P=36
+For N=1024
+MPI_Send/Recv:6.520874
+For P=36
+For N=1024
+MPI_Pack/Unpack:0.778804
+For P=36
+For N=1024
+Derived datatype:0.062192
+For P=49
+For N=16
+MPI_Send/Recv:0.632425
+For P=49
+For N=16
+MPI_Pack/Unpack:0.209880
+For P=49
+For N=16
+Derived datatype:0.110293
+For P=49
+For N=32
+MPI_Send/Recv:0.457953
+For P=49
+For N=32
+MPI_Pack/Unpack:0.206430
+For P=49
+For N=32
+Derived datatype:0.067457
+For P=49
+For N=64
+MPI_Send/Recv:0.417260
+For P=49
+For N=64
+MPI_Pack/Unpack:0.057954
+For P=49
+For N=64
+Derived datatype:0.054944
+For P=49
+For N=128
+MPI_Send/Recv:0.664454
+For P=49
+For N=128
+MPI_Pack/Unpack:0.353675
+For P=49
+For N=128
+Derived datatype:0.286362
+For P=49
+For N=256
+MPI_Send/Recv:0.868109
+For P=49
+For N=256
+MPI_Pack/Unpack:0.328674
+For P=49
+For N=256
+Derived datatype:0.422186
+For P=49
+For N=512
+MPI_Send/Recv:1.670870
+For P=49
+For N=512
+MPI_Pack/Unpack:0.327532
+For P=49
+For N=512
+Derived datatype:0.293437
+For P=49
+For N=1024
+MPI_Send/Recv:8.111905
+For P=49
+For N=1024
+MPI_Pack/Unpack:1.655257
+For P=49
+For N=1024
+Derived datatype:0.466065
+For P=64
+For N=16
+MPI_Send/Recv:0.460538
+For P=64
+For N=16
+MPI_Pack/Unpack:0.253549
+For P=64
+For N=16
+Derived datatype:0.173565
+For P=64
+For N=32
+MPI_Send/Recv:0.445313
+For P=64
+For N=32
+MPI_Pack/Unpack:0.192403
+For P=64
+For N=32
+Derived datatype:0.029771
+For P=64
+For N=64
+MPI_Send/Recv:0.508756
+For P=64
+For N=64
+MPI_Pack/Unpack:0.225019
+For P=64
+For N=64
+Derived datatype:0.235032
+For P=64
+For N=128
+MPI_Send/Recv:0.879308
+For P=64
+For N=128
+MPI_Pack/Unpack:0.414420
+For P=64
+For N=128
+Derived datatype:0.228581
+For P=64
+For N=256
+MPI_Send/Recv:1.327664
+For P=64
+For N=256
+MPI_Pack/Unpack:0.572349
+For P=64
+For N=256
+Derived datatype:0.414246
+For P=64
+For N=512
+MPI_Send/Recv:3.661492
+For P=64
+For N=512
+MPI_Pack/Unpack:0.707229
+For P=64
+For N=512
+Derived datatype:0.343634
+For P=64
+For N=1024
+MPI_Send/Recv:8.180092
+For P=64
+For N=1024
+MPI_Pack/Unpack:1.601060
+For P=64
+For N=1024
+Derived datatype:0.282804
+For P=16
+For N=16
+MPI_Send/Recv:0.010902
+For P=16
+For N=16
+MPI_Pack/Unpack:0.005987
+For P=16
+For N=16
+Derived datatype:0.005570
+For P=16
+For N=32
+MPI_Send/Recv:0.011783
+For P=16
+For N=32
+MPI_Pack/Unpack:0.020924
+For P=16
+For N=32
+Derived datatype:0.005426
+For P=16
+For N=64
+MPI_Send/Recv:0.034076
+For P=16
+For N=64
+MPI_Pack/Unpack:0.007621
+For P=16
+For N=64
+Derived datatype:0.005782
+For P=16
+For N=128
+MPI_Send/Recv:0.057327
+For P=16
+For N=128
+MPI_Pack/Unpack:0.031145
+For P=16
+For N=128
+Derived datatype:0.006967
+For P=16
+For N=256
+MPI_Send/Recv:0.257459
+For P=16
+For N=256
+MPI_Pack/Unpack:0.039516
+For P=16
+For N=256
+Derived datatype:0.008910
+For P=16
+For N=512
+MPI_Send/Recv:1.431519
+For P=16
+For N=512
+MPI_Pack/Unpack:0.098712
+For P=16
+For N=512
+Derived datatype:0.018592
+For P=16
+For N=1024
+MPI_Send/Recv:7.011687
+For P=16
+For N=1024
+MPI_Pack/Unpack:0.257198
+For P=16
+For N=1024
+Derived datatype:0.029791
+For P=36
+For N=16
+MPI_Send/Recv:0.016504
+For P=36
+For N=16
+MPI_Pack/Unpack:0.020781
+For P=36
+For N=16
+Derived datatype:0.012340
+For P=36
+For N=32
+MPI_Send/Recv:0.032689
+For P=36
+For N=32
+MPI_Pack/Unpack:0.007825
+For P=36
+For N=32
+Derived datatype:0.020221
+For P=36
+For N=64
+MPI_Send/Recv:0.050150
+For P=36
+For N=64
+MPI_Pack/Unpack:0.039007
+For P=36
+For N=64
+Derived datatype:0.029783
+For P=36
+For N=128
+MPI_Send/Recv:0.079271
+For P=36
+For N=128
+MPI_Pack/Unpack:0.019804
+For P=36
+For N=128
+Derived datatype:0.020880
+For P=36
+For N=256
+MPI_Send/Recv:0.240665
+For P=36
+For N=256
+MPI_Pack/Unpack:0.043558
+For P=36
+For N=256
+Derived datatype:0.015455
+For P=36
+For N=512
+MPI_Send/Recv:1.547526
+For P=36
+For N=512
+MPI_Pack/Unpack:0.136638
+For P=36
+For N=512
+Derived datatype:0.029450
+For P=36
+For N=1024
+MPI_Send/Recv:7.091610
+For P=36
+For N=1024
+MPI_Pack/Unpack:0.474540
+For P=36
+For N=1024
+Derived datatype:0.078026
+For P=49
+For N=16
+MPI_Send/Recv:0.522523
+For P=49
+For N=16
+MPI_Pack/Unpack:0.336349
+For P=49
+For N=16
+Derived datatype:0.082585
+For P=49
+For N=32
+MPI_Send/Recv:0.506602
+For P=49
+For N=32
+MPI_Pack/Unpack:0.379745
+For P=49
+For N=32
+Derived datatype:0.241158
+For P=49
+For N=64
+MPI_Send/Recv:0.560059
+For P=49
+For N=64
+MPI_Pack/Unpack:0.287086
+For P=49
+For N=64
+Derived datatype:0.327684
+For P=49
+For N=128
+MPI_Send/Recv:0.666757
+For P=49
+For N=128
+MPI_Pack/Unpack:0.127356
+For P=49
+For N=128
+Derived datatype:0.126445
+For P=49
+For N=256
+MPI_Send/Recv:0.953798
+For P=49
+For N=256
+MPI_Pack/Unpack:0.228219
+For P=49
+For N=256
+Derived datatype:0.240577
+For P=49
+For N=512
+MPI_Send/Recv:2.542979
+For P=49
+For N=512
+MPI_Pack/Unpack:0.492476
+For P=49
+For N=512
+Derived datatype:0.328039
+For P=49
+For N=1024
+MPI_Send/Recv:9.192549
+For P=49
+For N=1024
+MPI_Pack/Unpack:1.509307
+For P=49
+For N=1024
+Derived datatype:0.413862
+For P=64
+For N=16
+MPI_Send/Recv:0.515734
+For P=64
+For N=16
+MPI_Pack/Unpack:0.146382
+For P=64
+For N=16
+Derived datatype:0.004711
+For P=64
+For N=32
+MPI_Send/Recv:0.738528
+For P=64
+For N=32
+MPI_Pack/Unpack:0.346786
+For P=64
+For N=32
+Derived datatype:0.091278
+For P=64
+For N=64
+MPI_Send/Recv:0.604403
+For P=64
+For N=64
+MPI_Pack/Unpack:0.533164
+For P=64
+For N=64
+Derived datatype:0.370763
+For P=64
+For N=128
+MPI_Send/Recv:0.710067
+For P=64
+For N=128
+MPI_Pack/Unpack:0.254581
+For P=64
+For N=128
+Derived datatype:0.282902
+For P=64
+For N=256
+MPI_Send/Recv:1.201443
+For P=64
+For N=256
+MPI_Pack/Unpack:0.430750
+For P=64
+For N=256
+Derived datatype:0.110995
+For P=64
+For N=512
+MPI_Send/Recv:3.121132
+For P=64
+For N=512
+MPI_Pack/Unpack:0.601017
+For P=64
+For N=512
+Derived datatype:0.382303
+For P=64
+For N=1024
+MPI_Send/Recv:9.201324
+For P=64
+For N=1024
+MPI_Pack/Unpack:1.082105
+For P=64
+For N=1024
+Derived datatype:0.249312
+For P=16
+For N=16
+MPI_Send/Recv:0.014941
+For P=16
+For N=16
+MPI_Pack/Unpack:0.006235
+For P=16
+For N=16
+Derived datatype:0.038215
+For P=16
+For N=32
+MPI_Send/Recv:0.021355
+For P=16
+For N=32
+MPI_Pack/Unpack:0.006899
+For P=16
+For N=32
+Derived datatype:0.005067
+For P=16
+For N=64
+MPI_Send/Recv:0.021007
+For P=16
+For N=64
+MPI_Pack/Unpack:0.008068
+For P=16
+For N=64
+Derived datatype:0.005726
+For P=16
+For N=128
+MPI_Send/Recv:0.043723
+For P=16
+For N=128
+MPI_Pack/Unpack:0.014611
+For P=16
+For N=128
+Derived datatype:0.006998
+For P=16
+For N=256
+MPI_Send/Recv:0.186789
+For P=16
+For N=256
+MPI_Pack/Unpack:0.026787
+For P=16
+For N=256
+Derived datatype:0.024793
+For P=16
+For N=512
+MPI_Send/Recv:1.575264
+For P=16
+For N=512
+MPI_Pack/Unpack:0.107708
+For P=16
+For N=512
+Derived datatype:0.019502
+For P=16
+For N=1024
+MPI_Send/Recv:5.860893
+For P=16
+For N=1024
+MPI_Pack/Unpack:0.330003
+For P=16
+For N=1024
+Derived datatype:0.026497
+For P=36
+For N=16
+MPI_Send/Recv:0.019726
+For P=36
+For N=16
+MPI_Pack/Unpack:0.007314
+For P=36
+For N=16
+Derived datatype:0.005280
+For P=36
+For N=32
+MPI_Send/Recv:0.022381
+For P=36
+For N=32
+MPI_Pack/Unpack:0.007828
+For P=36
+For N=32
+Derived datatype:0.005241
+For P=36
+For N=64
+MPI_Send/Recv:0.048393
+For P=36
+For N=64
+MPI_Pack/Unpack:0.015043
+For P=36
+For N=64
+Derived datatype:0.036910
+For P=36
+For N=128
+MPI_Send/Recv:0.047296
+For P=36
+For N=128
+MPI_Pack/Unpack:0.019461
+For P=36
+For N=128
+Derived datatype:0.012638
+For P=36
+For N=256
+MPI_Send/Recv:0.224898
+For P=36
+For N=256
+MPI_Pack/Unpack:0.065896
+For P=36
+For N=256
+Derived datatype:0.015555
+For P=36
+For N=512
+MPI_Send/Recv:1.299973
+For P=36
+For N=512
+MPI_Pack/Unpack:0.167653
+For P=36
+For N=512
+Derived datatype:0.029503
+For P=36
+For N=1024
+MPI_Send/Recv:6.183955
+For P=36
+For N=1024
+MPI_Pack/Unpack:0.701094
+For P=36
+For N=1024
+Derived datatype:0.062876
+For P=49
+For N=16
+MPI_Send/Recv:0.443846
+For P=49
+For N=16
+MPI_Pack/Unpack:0.523255
+For P=49
+For N=16
+Derived datatype:0.232095
+For P=49
+For N=32
+MPI_Send/Recv:0.437096
+For P=49
+For N=32
+MPI_Pack/Unpack:0.326761
+For P=49
+For N=32
+Derived datatype:0.303269
+For P=49
+For N=64
+MPI_Send/Recv:0.556888
+For P=49
+For N=64
+MPI_Pack/Unpack:0.319780
+For P=49
+For N=64
+Derived datatype:0.301566
+For P=49
+For N=128
+MPI_Send/Recv:0.700613
+For P=49
+For N=128
+MPI_Pack/Unpack:0.213457
+For P=49
+For N=128
+Derived datatype:0.191100
+For P=49
+For N=256
+MPI_Send/Recv:0.750198
+For P=49
+For N=256
+MPI_Pack/Unpack:0.193546
+For P=49
+For N=256
+Derived datatype:0.188154
+For P=49
+For N=512
+MPI_Send/Recv:2.239419
+For P=49
+For N=512
+MPI_Pack/Unpack:0.495304
+For P=49
+For N=512
+Derived datatype:0.191295
+For P=49
+For N=1024
+MPI_Send/Recv:8.358752
+For P=49
+For N=1024
+MPI_Pack/Unpack:1.173963
+For P=49
+For N=1024
+Derived datatype:0.457899
+For P=64
+For N=16
+MPI_Send/Recv:0.599566
+For P=64
+For N=16
+MPI_Pack/Unpack:0.471963
+For P=64
+For N=16
+Derived datatype:0.527979
+For P=64
+For N=32
+MPI_Send/Recv:0.426807
+For P=64
+For N=32
+MPI_Pack/Unpack:0.092581
+For P=64
+For N=32
+Derived datatype:0.028240
+For P=64
+For N=64
+MPI_Send/Recv:0.728289
+For P=64
+For N=64
+MPI_Pack/Unpack:0.523989
+For P=64
+For N=64
+Derived datatype:0.643686
+For P=64
+For N=128
+MPI_Send/Recv:0.670835
+For P=64
+For N=128
+MPI_Pack/Unpack:0.200703
+For P=64
+For N=128
+Derived datatype:0.274749
+For P=64
+For N=256
+MPI_Send/Recv:1.703293
+For P=64
+For N=256
+MPI_Pack/Unpack:0.485230
+For P=64
+For N=256
+Derived datatype:0.274694
+For P=64
+For N=512
+MPI_Send/Recv:2.652250
+For P=64
+For N=512
+MPI_Pack/Unpack:0.638519
+For P=64
+For N=512
+Derived datatype:0.315313
+For P=64
+For N=1024
+MPI_Send/Recv:8.793732
+For P=64
+For N=1024
+MPI_Pack/Unpack:1.475144
+For P=64
+For N=1024
+Derived datatype:0.405754
