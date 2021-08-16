@@ -1,9 +1,9 @@
 CC  = mpicc
-Flag = -lm
+Fla = -lm
 Out = src.x
 
 all: src.c
-	$(CC) src.c -o $(Out) $(Flag)
+	$(CC) src.c -o $(Out) $(Fla) 
 
 clean:
 	rm -f  $(Out)
